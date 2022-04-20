@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MalekBakhtoo
 - 👀 I’m interested in web development and AI ...
-- 🌱 I’m currently learning web development :
+- 🌱 I’m currently learning web development 
+- skills :
 - html , css , python(django) , jquery , javascropt , bootstrap
 - 
 - 📫 How to reach me :
