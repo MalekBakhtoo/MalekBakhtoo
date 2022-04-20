@@ -6,7 +6,7 @@
 - 📫 How to reach me :
 - email : bakhtoomalek81@gamil.com
 - on instagram : malekbakhtoo
-- ont telegram : @Malekbkt
+- on telegram : @Malekbkt
 - on linkedin : Malek Bakhtoo
 
 <!---
