@@ -1,14 +1,14 @@
-- 👋 Hi, I’m @MalekBakhtoo
-- 👀 I’m interested in web development and AI ...
-- 🌱 I’m currently learning web development 
+- 👋 Hi, I’m @MalekBakhtoo ;
+- 👀 I’m interested in web development and AI ...;
+- 🌱 I’m currently learning web development ;
 - skills :
-- html , css , python(django) , jquery , javascropt , bootstrap
+- html , css , python(django) , jquery , javascropt , bootstrap , java , c++;
 - 
 - 📫 How to reach me :
-- email : bakhtoomalek81@gamil.com
-- on instagram : malekbakhtoo
-- on telegram : @Malekbkt
-- on linkedin : Malek Bakhtoo
+- email : bakhtoomalek81@gamil.com;
+- on instagram : malekbakhtoo ;
+- on telegram : @Malekbkt ;
+- on linkedin : Malek Bakhtoo ;
 
 <!---
 MalekBakhtoo/MalekBakhtoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
