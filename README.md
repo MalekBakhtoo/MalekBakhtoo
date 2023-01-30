@@ -1,5 +1,3 @@
-![Main Banner Banner](https://raw.githubusercontent.com/Phoenix15049/Phoenix15049/main/Content/Main/bg-p.jpg)
-
 <h2>Hey there! I'm Malek</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Malek -->
