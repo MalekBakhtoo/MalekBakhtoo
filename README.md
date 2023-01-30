@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm currently studying Computer Engineering at the Babol Noshirvani University of Technology .\
-🌱 &nbsp;I'm on track for learning more about Web Development .\
+🌱 &nbsp;I'm on track for learning more about Web Development .
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -20,7 +20,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+<!-- ### ⚙️ &nbsp;GitHub Analytics -->
 
 <!-- <p align="center">
 <a href="https://github.com/MalekBakhtoo">
