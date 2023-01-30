@@ -22,33 +22,23 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/MalekBakhtoo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MalekBakhtoo&theme=blue-green"/>
   
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalekBakhtoo&theme=blue-green"/>
 </a>
-</p>
-
-
-
+</p> -->
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 
 <p align="center">
 <br>
-<a href="https://www.facebook.com/Phoenix15049"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://www.instagram.com/m.r.yadollahii/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/mohammadreza-yadollahi-1b4b52254/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://t.me/phoenix15049"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" /></a>&nbsp;
-<a href="https://twitter.com/phoenix15049"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="mailto:phoenix15049@gmail.com?subject=Hola%20MohammadReza"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.instagram.com/malek_bakhtoo/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/MalekBakhtoo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://t.me/Malekbkt"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" /></a>&nbsp;
+<a href="mailto:bakhtoomalek81@gmail.com?subject=Hola%20MohammadReza"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
-
-
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Phoenix15049" />
-</p>
