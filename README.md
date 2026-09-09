@@ -16,7 +16,7 @@ I am a passionate AI Researcher with a strong focus on applying Deep Learning to
 - **Tools:** Git, Docker, SQL, Linux
 
 ### 🌟 Featured Projects
-- [**MPGNN-ADR**](لینک-ریپازیتوری): A novel meta-path-guided GNN framework for predicting adverse drug reactions (AUROC: 0.9647).
-- [**Protein-Subcellular-Localization**](لینک-ریپازیتوری): Fine-tuning ProtBERT for precise protein localization prediction.
+- [**MPGNN-ADR**](https://github.com/MalekBakhtoo/MPGNN-ADR): A novel meta-path-guided GNN framework for predicting adverse drug reactions (AUROC: 0.9647).
+- [**Protein-Subcellular-Localization**](https://github.com/MalekBakhtoo/Protbert-tuning-Protein-Subcellular-Localization): Fine-tuning ProtBERT for precise protein localization prediction.
 
 📫 **How to reach me:** [malekbakhtoo.ca@gmail.com](mailto:malekbakhtoo.ca@gmail.com) | [LinkedIn](https://www.linkedin.com/in/malek-bakhtoo/)
